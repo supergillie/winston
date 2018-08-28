@@ -1,3 +1,27 @@
+Vscode-terminalfönstret:
+
+Ng new Winchester
+
+
+På githubsidan:
+
+https://github.com/new
+
+
+Vscode-terminalfönstret:
+
+git remote add origin https://github.com/supergillie/winchester.git
+
+
+
+npm install -g angular-cli-ghpages
+
+ng build --prod --base-href "https://supergillie.github.io/winston/”
+
+ngh --dir dist/winchester/
+
+
+
 # Winchester
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
